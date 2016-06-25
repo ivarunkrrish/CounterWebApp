@@ -4,6 +4,7 @@
 	version="2.5">
 
 	<display-name>Counter Web Application</display-name>
+<!-- adding servlet info -->
 
 	<servlet>
 		<servlet-name>mvc-dispatcher</servlet-name>
